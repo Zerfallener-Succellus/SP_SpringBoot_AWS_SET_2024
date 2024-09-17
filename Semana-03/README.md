@@ -12,3 +12,4 @@ Destinado para guardar as atividades da Semana 3 da trilha de SpringBoot.
 - Fazer a simulação de conflitos e resolução (completo)
 
 
+
